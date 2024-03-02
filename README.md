@@ -2,6 +2,10 @@
 
 This project allows you to chat with multiple PDF documents using Streamlit and various natural language processing libraries.
 
+![Screenshot](Screenshot(1).png)
+![Screenshot](Screenshot(2).png)
+![Screenshot](Screenshot(3).png)
+
 ## Installation
 
 1. Clone the repository:
@@ -50,4 +54,4 @@ This project allows you to chat with multiple PDF documents using Streamlit and 
 
 
 
-![Screenshot](Screenshot(100).png)
+
