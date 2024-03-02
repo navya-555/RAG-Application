@@ -1,4 +1,4 @@
-# Chat with Multiple PDFs
+# RAG Application 
 
 This project allows you to chat with multiple PDF documents using Streamlit and various natural language processing libraries.
 
