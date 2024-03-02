@@ -48,3 +48,6 @@ This project allows you to chat with multiple PDF documents using Streamlit and 
 
 4. **User Interaction**: Users can enter questions about the uploaded documents in the text input box. The application then utilizes the conversational chain to generate responses based on the content of the documents.
 
+
+
+![Screenshot](Screenshot(100).png)
